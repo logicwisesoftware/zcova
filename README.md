@@ -2,4 +2,4 @@
 
 ## Website URL
 
-URL: `https://zcova.com` or [click here](https://zcova.com)
+Link: `https://zcova.com` or [click here](https://zcova.com)
