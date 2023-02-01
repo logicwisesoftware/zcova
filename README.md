@@ -1,1 +1,1 @@
-# [ZCOVA](https://zcova.com) Issues
+# [ZCOVA Issues](https://github.com/logicwisesoftware/zcova/issues)
